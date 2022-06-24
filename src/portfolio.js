@@ -284,46 +284,135 @@ const skills = {
 // Education Page
 const competitiveSites = {
   competitiveSites: [
+    // {
+    //   siteName: "HackerRank",
+    //   iconifyClassname: "simple-icons:hackerrank",
+    //   style: {
+    //     color: "#2EC866",
+    //   },
+    //   profileLink: "https://www.hackerrank.com/layman_brother",
+    // },
     {
-      siteName: "HackerRank",
-      iconifyClassname: "simple-icons:hackerrank",
+      siteName: "Html5",
+      iconifyClassname: "simple-icons:html5",
       style: {
-        color: "#2EC866",
+        color: "#ff7360",
       },
-      profileLink: "https://www.hackerrank.com/layman_brother",
+      profileLink: "https://developer.mozilla.org/es/docs/Glossary/HTML5",
     },
     {
-      siteName: "Codechef",
-      iconifyClassname: "simple-icons:codechef",
+      siteName: "Css3",
+      iconifyClassname: "simple-icons:css3",
       style: {
-        color: "#5B4638",
+        color: "#0ca8e8",
       },
-      profileLink: "https://www.codechef.com/users/ashutosh_1919",
+      profileLink: "https://developer.mozilla.org/es/docs/Web/CSS",
     },
     {
-      siteName: "Codeforces",
-      iconifyClassname: "simple-icons:codeforces",
+      siteName: "JavaScript",
+      iconifyClassname: "simple-icons:javascript",
       style: {
-        color: "#1F8ACB",
+        color: "#f6e80d",
       },
-      profileLink: "http://codeforces.com/profile/layman_brother",
+      profileLink: "https://developer.mozilla.org/es/docs/Web/JavaScript",
     },
     {
-      siteName: "Hackerearth",
-      iconifyClassname: "simple-icons:hackerearth",
+      siteName: "TypeScript",
+      iconifyClassname: "simple-icons:typescript",
       style: {
-        color: "#323754",
+        color: "#5eaee8",
       },
-      profileLink: "https://www.hackerearth.com/@ashutosh391",
+      profileLink: "https://www.typescriptlang.org/",
     },
     {
-      siteName: "Kaggle",
-      iconifyClassname: "simple-icons:kaggle",
+      siteName: "Sass",
+      iconifyClassname: "simple-icons:sass",
       style: {
-        color: "#20BEFF",
+        color: "#df6ef0",
       },
-      profileLink: "https://www.kaggle.com/laymanbrother",
+      profileLink: "https://sass-lang.com/",
     },
+    {
+      siteName: "React",
+      iconifyClassname: "logos:react",
+      style: {
+        color: "",
+      },
+      profileLink: "https://es.reactjs.org/",
+    },
+    {
+      siteName: "Angular",
+      iconifyClassname: "logos:angular-icon",
+      style: {
+        color: "",
+      },
+      profileLink: "https://angular.io/",
+    },
+    {
+      siteName: "Vue",
+      iconifyClassname: "logos:vue",
+      style: {
+        color: "",
+      },
+      profileLink: "https://vuejs.org/",
+    },
+    {
+      siteName: "Svelte",
+      iconifyClassname: "logos:svelte-icon",
+      style: {
+        color: "https://svelte.dev/",
+      },
+      profileLink: "",
+    },
+    {
+      siteName: "Jest",
+      iconifyClassname: "logos:jest",
+      style: {
+        color: "",
+      },
+      profileLink: "https://jestjs.io/es-ES/",
+    },
+    {
+      siteName: "Cypress",
+      iconifyClassname: "simple-icons:cypress",
+      style: {
+        color: "",
+      },
+      profileLink: "https://www.cypress.io/",
+    },
+    {
+      siteName: "Webpack",
+      iconifyClassname: "simple-icons:webpack",
+      style: {
+        color: "#a7f1f2",
+      },
+      profileLink: "https://webpack.js.org/",
+    },
+    {
+      siteName: "Parcel",
+      iconifyClassname: "logos:parcel-icon",
+      style: {
+        color: "",
+      },
+      profileLink: "https://parceljs.org/",
+    },
+    {
+      siteName: "Docker",
+      iconifyClassname: "logos:docker-icon",
+      style: {
+        color: "",
+      },
+      profileLink: "https://www.docker.com/",
+    },
+    {
+      siteName: "GraphQL",
+      iconifyClassname: "simple-icons:graphql",
+      style: {
+        color: "#b52067",
+      },
+      profileLink: "https://graphql.org/",
+    },
+
   ],
 };
 
